@@ -1,0 +1,12 @@
+2024-05-10 16:05:05.714499 - alia: User: & C:/Users/Ninesol2/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Ninesol2/Desktop/medical-chatbot/main2.py
+2024-05-10 16:05:21.078187 - alia: User: & C:/Users/Ninesol2/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Ninesol2/Desktop/medical-chatbot/main2.py
+2024-05-10 16:05:25.977332 - alia: User: & C:/Users/Ninesol2/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Ninesol2/Desktop/medical-chatbot/main2.py
+2024-05-10 16:05:36.899673 - alia: User: & C:/Users/Ninesol2/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Ninesol2/Desktop/medical-chatbot/main2.py
+2024-05-10 16:05:59.587146 - alia: I'm constantly worried and have panic attacks.
+2024-05-10 16:05:59.587146 - alia: Social situations and uncertainty trigger my anxiety.
+2024-05-10 16:05:59.588142 - alia: Several years.
+2024-05-10 16:05:59.588142 - alia: I've been avoiding social gatherings and have difficulty concentrating.
+2024-05-10 16:07:37.394512 - alia: I'm constantly worried and have panic attacks.
+2024-05-10 16:07:37.394512 - alia: Social situations and uncertainty trigger my anxiety.
+2024-05-10 16:07:37.394512 - alia: Several years.
+2024-05-10 16:07:37.395509 - alia: I've been avoiding social gatherings and have difficulty concentrating.

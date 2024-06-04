@@ -1,0 +1,3 @@
+2024-05-10 11:16:28.678630 - {user_identifier}: User: User's Message
+2024-05-10 11:18:15.974551 - {user_identifier}: User: User's Message
+2024-05-10 11:38:55.530512 - {user_identifier}: User: This is a "quoted" message
